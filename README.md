@@ -1,8 +1,8 @@
-# Formulário de Cadastro
+# Formulário Cadastro de Corredores(Runner)
  Formulário com HTML e CSS 
 
 ## Demonstration
-<img src="./previw1.png" alt="exemplo"> 
+<img src="./preview.png" alt="exemplo"> 
 
 ## Techs 
 * [ ] HTML
